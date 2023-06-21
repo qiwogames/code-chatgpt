@@ -45,7 +45,7 @@ export default function Inscription() {
       {est_inscrit ? (
         <div className="alert alert-danger p-3">
           <h2 className="text-success mt-3">Merci pour votre inscription !</h2>
-          <a href="/connexion" className="btn btn-warning">
+          <a href="/" className="btn btn-warning">
             Connexion
           </a>
         </div>
